@@ -1,0 +1,272 @@
+#logonavbar{
+    width: 50px;
+}
+body{
+    background-image: url(img/wallpaper1.jpg);
+    background-repeat: no-repeat;
+} 
+.calculadora{
+    position: absolute;
+    background-color: rgba(54, 53, 53, 0.8);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+.botao{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+.botao:hover{
+    background-color: black;
+}
+#resultado{
+    background-color: white;
+    height: 40px;
+    width: 190px;
+    font-size: 20px;
+    color: black;
+    text-align: right;
+    padding: 5px;
+    margin: 5px;
+}
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Dis{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+#Dis:hover{
+    background-color: black;
+}
+#Tem{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+}
+#Tem:hover{
+    background-color: black;
+}
+#calc{
+    position: absolute;
+    top: 35%;
+    left: 44%;
+    border-radius:8px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;   
+}
+#calc:hover{
+    background-color: black;
+}
+#vm{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    background-color:  rgb(31, 31, 31);
+    color: white;
+    border-radius: 8px;
+    padding: 3px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#vi{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+#vi:hover{
+    background-color: black;
+}
+#ace{
+    position: absolute;
+    top: 36%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+#ace:hover{
+    background-color: black;
+}
+#tem{
+    position: absolute;
+    top: 42%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+#tem:hover{
+    background-color: black;
+}
+#muv{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    background-color:  rgb(31, 31, 31);
+    color: white;
+    border-radius: 8px;
+    padding: 3px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#vel{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+#vel:hover{
+    background-color: black;
+}
+#acel{
+    position: absolute;
+    top: 36%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+#acel:hover{
+    background-color: black;
+}
+#temp{
+    position: absolute;
+    top: 42%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+#temp:hover{
+    background-color: black;
+}
+#tor{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    background-color:  rgb(31, 31, 31);
+    color: white;
+    border-radius: 8px;
+    padding: 3px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#base{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+#base:hover{
+    background-color: black;
+}
+#altura{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    border-radius:8px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border:none;
+    color: white;
+    margin: 3px;
+}
+#altura:hover{
+    background-color: black;
+}
+#res{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    background-color:  rgb(31, 31, 31);
+    color: white;
+    border-radius: 8px;
+    padding: 3px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
